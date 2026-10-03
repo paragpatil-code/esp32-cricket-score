@@ -112,9 +112,9 @@ Since there are no free, high-quality, undocumented Cricket APIs available relia
 - **WiFi Failed! Reboot**: Ensure your `WIFI_SSID` and `WIFI_PASSWORD` are correct and that the ESP32 is within range of your router (2.4GHz networks only).
 - **"No India intl match is live right now"**: The device successfully connected and fetched data, but there is no live Indian international match currently playing.
 
-## Note to Cricbuzz
+## Note to Cricbuzz and CricInfo
 
-This is a non-commercial, personal hobby project for monitoring live cricket scores on a small microcontroller. If anyone from the Cricbuzz team has concerns, wishes to request changes, or would like this project removed, please contact me at: contact@paragpatil.in.
+This is a non-commercial, personal hobby project for monitoring live cricket scores on a small microcontroller. If anyone from the Cricbuzz team or CricInfo team has concerns, wishes to request changes, or would like this project removed, please contact me at: contact@paragpatil.in.
 
 ## License
 
